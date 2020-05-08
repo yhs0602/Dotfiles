@@ -3,6 +3,7 @@ My dotfiles for windows/mac/linux
 
 ## Windows
 ### Installing WSL (recommended)
+https://docs.microsoft.com/en-us/windows/wsl/install-win10
 1. Install ubuntu/kali linux/debian or so.
 1. Enable windows subsystem for linux
 ``` Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux```
