@@ -12,3 +12,9 @@ https://docs.microsoft.com/en-us/windows/wsl/install-win10
 1. Run 4.
 1. Open settings of windows terminal.
 1. Set wsl as default shell.
+
+## Linux
+https://ledgku.tistory.com/23
+
+## Linux-virtualbox
+```sudo rm /etc/udev/rules.d/70-persistent-net.rules``` to fix network
