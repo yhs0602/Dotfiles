@@ -15,6 +15,7 @@ https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
 ## Linux
 https://ledgku.tistory.com/23
+
 https://linuxhint.com/vim-vundle-tutorial/
 
 ## Linux-virtualbox
