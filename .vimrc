@@ -1,0 +1,11 @@
+set nu
+syntax on
+set rnu
+set autoindent
+set cindent
+set smartindent
+set tabstop=4
+set expandtab
+set shiftwidth=4
+set hlsearch
+set ruler
